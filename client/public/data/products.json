@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "name": "Kyrie Nike Dri-FIT 'Friends'",
+            "price": "$35",
+            "type": "mens",
+            "category": "Men's Basketball T-Shirt",
+            "imageSource": "./images/product-kyrie.jpg"
+        },
+        {
+            "name": "LeBron James Nike Dri-FIT 'MVP'",
+            "price": "$35",
+            "type": "mens",
+            "category": "Men's NBA T-Shirt",
+            "imageSource": "/images/product-lebron.webp"
+        },
+        {
+            "name": "FVV 'Overlooked' T-Shirt",
+            "price": "$30",
+            "type": "mens",
+            "category": "Men's Basketball T-Shirt",
+            "imageSource": "/images/product-fred.png"
+        },
+        {
+            "name": "Giannis 'Freak'",
+            "price": "$85",
+            "type": "mens",
+            "category": "Men's Basketball Hoodie",
+            "imageSource": "/images/product-freak.jpg"
+        },
+        {
+            "name": "Tiro 19 Training Pants",
+            "price": "$45",
+            "type": "mens",
+            "category": "Men's Soccer",
+            "imageSource": "/images/product-tiro.jpg"
+        },
+        {
+            "name": "San Antonio Spurs Nike Therma Flex Showtime",
+            "price": "$105",
+            "type": "mens",
+            "category": "Men's NBA Pants",
+            "imageSource": "/images/product-spurs.jpg"
+        },
+        {
+            "name": "UA Sportstyle Pique",
+            "price": "$45",
+            "type": "mens",
+            "category": "Men's Pants",
+            "imageSource": "/images/product-ua-sportstyle.jpg"
+        },
+        {
+            "name": "Men’s Speed Pants",
+            "price": "$45",
+            "type": "mens",
+            "category": "Men's Pants",
+            "imageSource": "/images/product-puma-speed.jpg"
+        },
+        {
+            "name": "Believe This High Rise 7/8 Tights",
+            "price": "$60",
+            "type": "womens",
+            "category": "Women's Training",
+            "imageSource": "/images/product-believe.jpg"
+        },
+        {
+            "name": "UA Play Up 3.0 Twist",
+            "price": "$25",
+            "type": "womens",
+            "category": "Women's Shorts",
+            "imageSource": "/images/product-us-play.jpeg"
+        },
+        {
+            "name": "Studio Mesh Women's Tank",
+            "price": "$25",
+            "type": "womens",
+            "category": "Women's Tank Top",
+            "imageSource": "/images/product-mesh-studio.jpg"
+        },
+        {
+            "name": "Wanderlust Warp Knit Crop Top",
+            "price": "$60",
+            "type": "womens",
+            "category": "Women's Training",
+            "imageSource": "/images/product-wanderlust.webp"
+        }        
+    ]    
+}
