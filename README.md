@@ -20,6 +20,9 @@ This project is an e-commerce website centered around athletic apparel. It conta
 ## Running the Tests
 Use `npm test` from the root directory.
 
+## Audit
+![](work/audit/pre_audit_11-25-19.png)
+
 ## Author
 * [Lovepreet Thind](https://github.com/Thind-Lovepreet14)
 
